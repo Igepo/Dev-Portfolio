@@ -5,8 +5,10 @@
             "subtitle": "Capgemini",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Participation in the development and maintenance of software dedicated to military aircraft.",
+                "Design and implementation of new functionalities in C# to improve software performance and reliability.",
+                "Create and manage complex SQL queries to guarantee data integrity and reliability.",
+                "Development of the user interface with WPF to improve the software's ergonomics and performance."
             ],
             "dateText": "12/2022 – 10/2024"
         },
@@ -15,9 +17,12 @@
             "subtitle": "Conseil 3D",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Participation in the development of various mixed and augmented reality projects, from the creation of immersive applications to the optimization of tools for 3D artists.",
+                "Development of Virtual and Augmented Reality applications for Hololens 2 in Unity.",
+                "Development of real-time 3D applications in the form of serious games for PC and Android.",
+                "Development of tools for 3ds Max and Blender to optimize the workflow of 3D artists."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "09/2021 – 05/2022"
         }
     ]
 }

@@ -1,19 +1,16 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "2016 - 2022",
+            "cardTitle": "Master in Imaging and Virtual Reality",
+            "cardSubtitle":"EFREI Paris, Villejuif",
+            "cardDetailedText": ""
         },
         {
-            "title": "Apr 20XX",
+            "title": "2016",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Charles de Gaulle High School, Poissy",
+            "cardDetailedText": ""
         }
     ]
 }
