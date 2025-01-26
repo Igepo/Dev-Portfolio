@@ -1,5 +1,5 @@
 {
-    "intro": "I’m passionate about learning and experimenting with new technologies. Here are some of the key languages, tools, platforms, and technologies I've worked with:",
+    "intro": "Here are some of the key languages, tools, platforms, and technologies I've worked with:",
     "skills": [{
      
             "title": "Languages & Databases",
@@ -8,10 +8,6 @@
                 {
                     "icon": "images/skills/Csharp.png",
                     "title": "C#"
-                },
-                {
-                    "icon": "images/skills/c-plus-plus.svg",
-                    "title": "C++"
                 },
                 {
                     "icon": "images/skills/SQL.png",
@@ -24,10 +20,6 @@
                 {
                     "icon": "images/skills/Unity_Technologies_logo.png",
                     "title": "Unity"
-                },
-                {
-                    "icon": "images/skills/unrealengine.svg",
-                    "title": "Unreal Engine"
                 }
             ]
         },

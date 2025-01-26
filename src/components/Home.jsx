@@ -19,6 +19,11 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
   },
+  messageStyle: {
+    marginTop: '20px',
+    fontSize: '1.5em',
+    textAlign: 'center',
+  },
 };
 
 function Home() {
@@ -46,6 +51,7 @@ function Home() {
               strings: data?.roles,
             }}
           />
+          <h1 style={styles.messageStyle}>{data?.message}</h1>
         </div>
         <Social />
       </div>
